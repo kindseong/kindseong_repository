@@ -1,0 +1,2 @@
+# kindseong_repository
+init
